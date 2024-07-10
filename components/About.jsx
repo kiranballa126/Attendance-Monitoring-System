@@ -16,8 +16,7 @@ export const About = () => {
         </h1>
         {/* <div > */}
         <h1 className=" big-heading  text-bigH font-bold -ml-1.5">
-          {/* Renuka Bhagyasri. */}
-          J N D R SURYA KIRAN BALLA
+          {/* Renuka Bhagyasri. */}J N D R SURYA KIRAN BALLA
         </h1>
         {/* </div> */}
         {/* big-heading */}
@@ -25,23 +24,20 @@ export const About = () => {
           {/* xs:text-2xl */}I build WEB applications.
         </h1>
         {/* lg:mt-2 */}
-        <p className="text-aboutColor xs:my-7 lg:my-9 max-w-xl tracking-wide  xs:-mt-0.5 xs:-ml-0.5 ">
-          {/* Hello and Welcome, I am a professional Web Application Developer ,
-          skilled with MERN stack. I have worked on many projects using MERN
-          stack. My only goal is to develop and provide high-quality web apps to
-          my clients. Client satisfaction is worth much more than money for me! */}
-          Hello there! 👋🔗💻
-          I'm just completed my final year B.Sc. studies with a strong passion for technology so,
-           completed my internship on "MERN STACK DEVELOPMENT" from "Train A Tech private Limited" 
-           🔍 Currently on the lookout for an job opportunity to further develop my skills and contribute 
-           to a dynamic team! 🚀🌐💻 As I delve into the realms of Full Stack Web Development, I am eager
-            to fuse my love for tech with the artistry of coding.
+        <p className="text-aboutColor xs:my-7 lg:my-9 max-w-xl tracking-wide xs:-mt-0.5 xs:-ml-0.5 ">
+          Hello there! 👋🔗💻 I&apos;m just completed my final year B.Sc.
+          studies with a strong passion for technology so, completed my
+          internship on &quot;MERN STACK DEVELOPMENT&quot; from &quot;Train A
+          Tech private Limited&quot; 🔍 Currently on the lookout for an job
+          opportunity to further develop my skills and contribute to a dynamic
+          team! 🚀🌐💻 As I delve into the realms of Full Stack Web Development,
+          I am eager to fuse my love for tech with the artistry of coding.
         </p>
         <a
           target="_blank"
           rel="noreferrer"
           className="xs:my-5"
-          href="https://www.linkedin.com/in/surya-kiran-balla-16a01a263" 
+          href="https://www.linkedin.com/in/surya-kiran-balla-16a01a263"
         >
           <button className="hover:bg-secondary hover:bg-opacity-10 xs:my-7 border-secondary rounded border-2 p-4 mt-1  text-secondary">
             Connect on Linkedin!
