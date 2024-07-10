@@ -258,7 +258,7 @@ export const Projects = () => {
             </div>
 
             <div className="xl:hidden lg:hidden md:block sm:block xs:block">
-              <div className="relative w-full h-72 bg-[url('/images/jira/projectBoard-manager-1.jpg')] bg-secondary opacity-50 bg-contain"></div>
+              <div className="relative w-full h-72 bg-[url('/images/kiran-img/dashboardpage.png')] bg-secondary opacity-50 bg-contain"></div>
               <div className="px-7 xs:px-4 xs:-mt-10  absolute top-[76%] text-center text-secondary">
               Real Time Attendance Monitoring System(AMS) Website- Developed a state-of-the-art Attendance
               Monitoring System aimed at optimizing attendance tracking processes for organizations. Leveraged modern
